@@ -1,9 +1,7 @@
 # Pizza Sales Analysis | SQL + Power BI
 
 ## 📊 Project Overview
-Analyzed 48,000+ pizza sales records using SQL and Power BI to uncover 
-business insights including revenue trends, peak hours, and best/worst 
-performing pizzas.
+Analyzed 48,000+ pizza sales records using SQL and Power BI to uncover business insights including revenue trends, peak hours, and best/worst performing pizzas.
 
 ## 🛠️ Tools Used
 - **SQL** (MySQL) — Data extraction and analysis
@@ -34,7 +32,7 @@ performing pizzas.
 - Daily and Monthly Trend Charts
 - Sales % by Category and Size
 
-**Page 2 — Best & Worst Sellers:**
+**Page 2 — Best and Worst Sellers:**
 - Top 5 Pizzas by Revenue, Quantity, Total Orders
 - Bottom 5 Pizzas by Revenue, Quantity, Total Orders
 
@@ -44,12 +42,6 @@ performing pizzas.
 - Total Pizzas Sold
 - Total Orders
 - Average Pizzas Per Order
-- Daily Trend for Total Orders
-- Monthly Trend for Total Orders
-- % of Sales by Pizza Category
-- Top 5 Best Sellers by Revenue
-- Bottom 5 Worst Sellers by Revenue
-- Top 5 by Quantity and Total Orders
-- `project sql&power bi.pbix` — Power BI Dashboard file
-- `pizza_queries.sql` — All SQL queries used
-- `README.md` — Project documentation
+- Daily and Monthly Trend for Orders
+- Percentage of Sales by Pizza Category
+- Top 5 and Bottom 5 Sellers by Revenue, Quantity and Orders
