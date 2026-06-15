@@ -15,8 +15,7 @@
 - Top 5 Pizzas by Revenue, Quantity, Total Orders
 - Bottom 5 Pizzas by Revenue, Quantity, Total Orders
 
-<img width="616" height="341" alt="Best and Worst Sellers Dashboard" src="https://github.com/user-attachments/assets/1eb52122-f125-49c8-9fa0-570f7edf7ff2" />
-
+<img width="623" height="341" alt="image" src="https://github.com/user-attachments/assets/08f3099b-9e76-4767-949b-c98ef840b20a" />
 
 ##  Project Overview
 
