@@ -1,5 +1,14 @@
 # Pizza Sales Analysis | SQL + Power BI
 
+## Dashboard Preview
+
+## Main Dashboard
+<img width="609" height="345" alt="Main Dashboard" src="https://github.com/user-attachments/assets/058040aa-dc01-4852-93c2-b8040c9e77e3" />
+
+## Best and Worst Sellers Dashboard
+<img width="616" height="341" alt="Best and Worst Sellers Dashboard" src="https://github.com/user-attachments/assets/1eb52122-f125-49c8-9fa0-570f7edf7ff2" />
+
+
 ##  Project Overview
 Analyzed 48,000+ pizza sales records using SQL and Power BI to uncover business insights including revenue trends, peak hours, and best/worst performing pizzas.
 
